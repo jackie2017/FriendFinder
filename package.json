@@ -1,0 +1,28 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "friendfinder compatibility based",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackie2017/FriendFinder.git"
+  },
+  "keywords": [
+    "friendfinder"
+  ],
+  "author": "jacqueline young",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackie2017/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jackie2017/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
